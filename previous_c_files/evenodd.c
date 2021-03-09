@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-    int num,rem,store,old=0;
+    int num;
     printf("please enter the number:");
     scanf("%d",&num);
     
